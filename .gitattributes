@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Unreal Engine 忽略清單
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
